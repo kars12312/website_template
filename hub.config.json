@@ -48,7 +48,7 @@
     "learning_tree": true,
     "playbooks": true,
     "workshops": true,
-    "event": true
+    "events": true
   },
   "content": {
     "exclude_paths": [],
