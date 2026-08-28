@@ -47,7 +47,8 @@
   "features": {
     "learning_tree": true,
     "playbooks": true,
-    "workshops": true
+    "workshops": true,
+    "event": true
   },
   "content": {
     "exclude_paths": [],
