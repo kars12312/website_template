@@ -29,6 +29,15 @@
       "location": "Room 201, Engineering Hall",
       "description": "Hands-on workshop and project time."
     },
+    "events": [
+  {
+    "title": "你的活動名稱",
+    "date": "2026-09-01",
+    "time": "7:00 PM",
+    "location": "Room 201 / Online",
+    "description": "活動簡介與細節描述"
+  }
+]
     {
       "title": "AI Hackathon",
       "date": "April 19, 2026",
